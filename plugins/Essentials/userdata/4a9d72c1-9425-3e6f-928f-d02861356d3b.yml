@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722149297659
+  login: 1722149292743
+money: '0'
+last-account-name: duyle121
+logoutlocation:
+  world: 8412a63d-91fc-4464-8d51-8cd0f308de78
+  world-name: world
+  x: -818.5
+  y: 65.0
+  z: -130.5
+  yaw: 160.2000274658203
+  pitch: 10.500001907348633

@@ -1,0 +1,152 @@
+name: HunterPlayer
+description: ''
+open: false
+pvp: false
+home: ''
+color: '6'
+chests: []
+players:
+- 67a869d7-fc48-38a9-b8cd-7b8ebe203725,OWNER
+level: 1
+tag: ''
+warps:
+- trail;world:-911.3000000119209:18.0:-429.30000001192093:-2.5776367:39.79412
+score: 1
+echest:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: OBSIDIAN
+    amount: 4
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: SADDLE
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: SADDLE
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: DIAMOND_HORSE_ARMOR
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: GOLD_INGOT
+    amount: 17
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: GUNPOWDER
+    amount: 20
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: BOOK
+    amount: 2
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: NAME_TAG
+    amount: 2
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: BONE
+    amount: 11
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ARROW
+    amount: 15
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: IRON_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 90
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: RAW_IRON
+    amount: 3
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: SUGAR_CANE
+    amount: 6
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: STICK
+    amount: 5
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      Damage: 18
+      blockMaterial: SHIELD
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: HAY_BLOCK
+    amount: 28
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: TNT
+    amount: 2
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: HEART_OF_THE_SEA
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: IRON_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Damage: 124
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: IRON_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Damage: 186
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: GOLDEN_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Damage: 66
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: STRING
+    amount: 2
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: LEATHER
+    amount: 2
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: POTATO
+    amount: 5
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: IRON_INGOT
+    amount: 6
